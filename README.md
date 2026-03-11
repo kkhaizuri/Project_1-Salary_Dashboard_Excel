@@ -17,12 +17,15 @@ The following Excel skills were utilized for analysis:
 - Data Validation
 
 ## Data Jobs Dataset
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. It includes detailed information on:
+The dataset used for this project contains real-world data science job information from 2023. It includes detailed information on:
 
 - Job titles
 - Salaries
 - Locations
 - Skills
+
+Data Jobs Dataset: [data_jobs_salary.xlsx](https://github.com/user-attachments/files/25894510/data_jobs_salary.xlsx)
+
 
 ## Dashboard Build
 ### Charts
